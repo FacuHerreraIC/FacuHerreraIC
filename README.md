@@ -1,14 +1,38 @@
-# 🛡️ DevOps | SecOps | CyberSec | Computational Engineer
+<div align="center">
+  
+# Hello World! 👋 I'm Facundo Herrera
+
+### 🛡️ **Future DevSecOps Engineer | Future Cybersecurity Specialist | Computational Engineer Student**
+
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FacuHerreraIC&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacuHerreraIC&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  
+`🔥 Code | 🔐 Secure | 🚀 Deploy | 🛠️ Build | 🔍 Analyze`
+
+</div>
+
+---
+
+### **About Me**
+- 💻 Passionate about **secure cloud infrastructure** and **automated defense systems**
+- 🎓 Computational Engineering student with focus on **cyber-physical systems**
+- 🛠️ Daily practitioner of **DevOps** meets **Security (DevSecOps)**
+- 🖨️ 3D printing enthusiast creating **IoT-enabled security devices**
+- 🔭 Currently exploring: **AI-powered threat detection** and **quantum cryptography**
+
+---
+
+<div align="center">
+  
+_"Turning coffee into secure infrastructure, one pipeline at a time"_ ☕🔒
+
 </div>
 
 ## 🔧 Technical Arsenal
 
 ### 🖥️ Programming & Scripting
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -17,17 +41,18 @@
 </p>
 
 ### ☁️ Virtualization & Cloud
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
 
 ### 🔐 Security & Operations
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Cyber_Security-4EAA25?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="CyberSec"/>
   <img src="https://img.shields.io/badge/Ethical_Hacking-FF6B00?style=for-the-badge&logo=keybase&logoColor=white" alt="Ethical Hacking"/>
   <img src="https://img.shields.io/badge/Security_Analyst-0078D7?style=for-the-badge&logo=guardian&logoColor=white" alt="Security Analyst"/>
+  <img src="https://img.shields.io/badge/AD_DS-5D5D5D?style=for-the-badge&logo=microsoft&logoColor=white" alt="AD DS"/>
 </p>
 
 ## 📜 Certifications & Courses
@@ -55,32 +80,34 @@
 ## 🛠️ Daily Tools
 
 ### 💻 IDEs & Editors
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
 </p>
 
 ### 🖥️ Terminal & Shell
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CMD"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </p>
 
 ### 🛠️ Development Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ### 🖨️ 3D Printing & CAD
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Tinkercad-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white" alt="Tinkercad"/>
   <img src="https://img.shields.io/badge/Ultimaker_Cura-00AAFF?style=for-the-badge&logo=ultimaker&logoColor=white" alt="Ultimaker Cura"/>
 </p>
 
 ## 📫 Let's Connect
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/facuherrerapythondev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
