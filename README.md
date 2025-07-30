@@ -5,6 +5,10 @@
 ### 🛡️ **Future DevSecOps Engineer | Future Cybersecurity Specialist | Computational Engineer Student**
 
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FacuHerreraIC&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacuHerreraIC&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</div
 
 <div align="center">
   
