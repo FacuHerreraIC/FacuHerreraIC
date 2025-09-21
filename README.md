@@ -60,6 +60,13 @@ _"Turning coffee into secure infrastructure, one pipeline at a time"_ ☕🔒
   <img src="https://img.shields.io/badge/AD_DS-5D5D5D?style=for-the-badge&logo=microsoft&logoColor=white" alt="AD DS"/>
 </p>
 
+### 🧪 Testing & Automation
+<p align="center">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+</p>
+
 ## 📜 Certifications & Courses
 
 <div align="center">
@@ -72,6 +79,7 @@ _"Turning coffee into secure infrastructure, one pipeline at a time"_ ☕🔒
 | <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white"/> AI Fundamentals | ✅ Completed | 09/2024 |
 | <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> Python Essentials 1 | ✅ Completed | 06/2024 |
 | <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> Python Essentials 2 | ✅ Completed | 06/2024 |
+| <img src="https://img.shields.io/badge/XAcademy-FF6B00?style=flat-square&logo=academia&logoColor=white"/> QA Manual & Automatizado | ✅ Completed | - |
 
 </div>
 
