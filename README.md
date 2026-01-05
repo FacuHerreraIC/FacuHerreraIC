@@ -2,9 +2,9 @@
   
 # Hello World! 👋 I'm Facundo Herrera
 
-### 🛡️ **Future DevSecOps Engineer | Future Cybersecurity Specialist | Computational Engineer Student**
+### 🛡️ **QA Automation and Manual | Future Cybersecurity Specialist | Computational Engineer Student**
 
-![FacuHerreraIC's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FacuHerreraIC&theme=github-dark)](https://github.com/FacuHerreraIC)
+![FacuHerreraIC's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FacuHerreraIC&theme=github-dark)
 <div align="center">
   
 `🔥 Code | 🔐 Secure | 🚀 Deploy | 🛠️ Build | 🔍 Analyze`
@@ -12,15 +12,24 @@
 </div>
 
 ---
+## About me
 
-### **About Me**
 <div align="left">
--💻 Passionate about **secure cloud infrastructure** and **automated defense systems**
--🎓 Computational Engineering student with focus on **cyber-physical systems**
--🛠️ Daily practitioner of **DevOps** meets **Security (DevSecOps)**
--🖨️ 3D printing enthusiast creating **IoT-enabled security devices**
--🔭 Currently exploring: **AI-powered threat detection** and **quantum cryptography**
+  
+  💻 Passionate about **secure cloud infrastructure** and **automated defense systems**
+  
+  🎓 Computational Engineering student with focus on **cyber-physical systems**
+  
+  🛠️ Daily practitioner of **DevOps** meets **Security (DevSecOps)**
+  
+  🖨️ 3D printing enthusiast creating **IoT-enabled security devices**
+  
+  🔭 Currently exploring: **AI-powered threat detection** and **quantum cryptography**
+
+  
 </div>
+
+  
 ---
 
 <div align="center">
@@ -77,14 +86,21 @@ _"Turning coffee into secure infrastructure, one pipeline at a time"_ ☕🔒
 | <img src="https://img.shields.io/badge/XAcademy-FF6B00?style=flat-square&logo=academia&logoColor=white"/> QA Manual & Automation | ✅ Completed | - |
 
 </div>
+
+ ## 🎓 Current Focus
+
 <div align="left">
-## 🎓 Current Focus
+
+ 
 - Computational Engineering studies
 - Enhancing my DevSecOps pipeline skills
 - Exploring AI/ML applications in cybersecurity
 - IoT security research
 - Completing Cisco Ethical Hacker certification
+  
 </div>
+
+
 ## 🛠️ Daily Tools
 
 ### 💻 IDEs & Editors
