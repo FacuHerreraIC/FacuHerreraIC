@@ -3,7 +3,8 @@
 # Hello World! 👋 I'm Facundo Herrera
 
 ### 🛡️ **Future DevSecOps Engineer | Future Cybersecurity Specialist | Computational Engineer Student**
-
+</div>
+[![FacuHerreraIC's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FacuHerreraIC&theme=github-dark)](https://github.com/FacuHerreraIC)
 <div align="center">
   
 `🔥 Code | 🔐 Secure | 🚀 Deploy | 🛠️ Build | 🔍 Analyze`
