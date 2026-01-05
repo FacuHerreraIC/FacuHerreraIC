@@ -3,22 +3,6 @@
 # Hello World! 👋 I'm Facundo Herrera
 
 ### 🛡️ **Future DevSecOps Engineer | Future Cybersecurity Specialist | Computational Engineer Student**
----
-<div align="center">
-
-## 🚀 GitHub Analytics
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FacuHerreraIC&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
-
-### 💻 Top Languages  
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FacuHerreraIC&layout=compact&theme=dark&hide_border=true&langs_count=6&exclude_repo=archived-repo-1,archived-repo-2)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=FacuHerreraIC&theme=dark&hide_border=true)
-
-</div>
----
 
 <div align="center">
   
