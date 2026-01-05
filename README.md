@@ -14,11 +14,11 @@
 ---
 
 ### **About Me**
-- 💻 Passionate about **secure cloud infrastructure** and **automated defense systems**
-- 🎓 Computational Engineering student with focus on **cyber-physical systems**
-- 🛠️ Daily practitioner of **DevOps** meets **Security (DevSecOps)**
-- 🖨️ 3D printing enthusiast creating **IoT-enabled security devices**
-- 🔭 Currently exploring: **AI-powered threat detection** and **quantum cryptography**
+💻 Passionate about **secure cloud infrastructure** and **automated defense systems**
+🎓 Computational Engineering student with focus on **cyber-physical systems**
+🛠️ Daily practitioner of **DevOps** meets **Security (DevSecOps)**
+🖨️ 3D printing enthusiast creating **IoT-enabled security devices**
+🔭 Currently exploring: **AI-powered threat detection** and **quantum cryptography**
 
 ---
 
