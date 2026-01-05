@@ -14,12 +14,13 @@
 ---
 
 ### **About Me**
-💻 Passionate about **secure cloud infrastructure** and **automated defense systems**
-🎓 Computational Engineering student with focus on **cyber-physical systems**
-🛠️ Daily practitioner of **DevOps** meets **Security (DevSecOps)**
-🖨️ 3D printing enthusiast creating **IoT-enabled security devices**
-🔭 Currently exploring: **AI-powered threat detection** and **quantum cryptography**
-
+<div align="left">
+-💻 Passionate about **secure cloud infrastructure** and **automated defense systems**
+-🎓 Computational Engineering student with focus on **cyber-physical systems**
+-🛠️ Daily practitioner of **DevOps** meets **Security (DevSecOps)**
+-🖨️ 3D printing enthusiast creating **IoT-enabled security devices**
+-🔭 Currently exploring: **AI-powered threat detection** and **quantum cryptography**
+</div>
 ---
 
 <div align="center">
@@ -76,14 +77,14 @@ _"Turning coffee into secure infrastructure, one pipeline at a time"_ ☕🔒
 | <img src="https://img.shields.io/badge/XAcademy-FF6B00?style=flat-square&logo=academia&logoColor=white"/> QA Manual & Automation | ✅ Completed | - |
 
 </div>
-
+<div align="left">
 ## 🎓 Current Focus
 - Computational Engineering studies
 - Enhancing my DevSecOps pipeline skills
 - Exploring AI/ML applications in cybersecurity
 - IoT security research
 - Completing Cisco Ethical Hacker certification
-
+</div>
 ## 🛠️ Daily Tools
 
 ### 💻 IDEs & Editors
